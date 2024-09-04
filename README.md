@@ -1,9 +1,11 @@
 # House-Price-Prediction
 
 Overview
+
 This repository contains a House Price Prediction web application developed using Python, Machine Learning, and Streamlit. The goal of this project is to predict the prices of houses based on various features such as the number of bedrooms, bathrooms, square footage, location, and more. The application is designed to provide an interactive and user-friendly interface for users to input data and receive predictions in real-time.
 
 Features
+
 Data Preprocessing: Cleaned and preprocessed the dataset to handle missing values, encode categorical variables, and scale features for better model performance.
 
 Exploratory Data Analysis (EDA): Visualized key features and relationships in the dataset to understand the factors influencing house prices.
